@@ -24,6 +24,7 @@ ToC split by SaaS and OSS:
     - [Sqlelectron](https://sqlectron.github.io/)
     - [SQL Tabs](https://www.sqltabs.com/)
     - [SQuirreL SQL](http://www.squirrelsql.org/)
+    - [Workbench/J](https://www.sql-workbench.eu/)
     
     
   - SaaS
@@ -85,7 +86,8 @@ ToC split by SaaS and OSS:
   - SaaS
     - [Alooma](https://www.alooma.com/)
     - [Blendo](https://www.blendo.co/)
-    - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud
+    - [Boomi](https://boomi.com/)
+    - [Dataflow](https://cloud.google.com/dataflow/) by Google Cloud    
     - [Etleap](https://etleap.com/)
     - [Fivetran](https://www.fivetran.com/)
     - [Glue](https://aws.amazon.com/de/glue/) by AWS
